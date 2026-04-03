@@ -2,7 +2,7 @@ Summary:	Kelbt - backtracking LR parsing
 Summary(pl.UTF-8):	Kelbt - analiza LR z nawrotami
 Name:		kelbt
 Version:	0.15
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Development/Tools
 Source0:	http://www.complang.org/kelbt/%{name}-%{version}.tar.gz
